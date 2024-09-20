@@ -514,7 +514,7 @@ h6 {
 # Global Footer
 --------------------------------------------------------------*/
 .footer {
-  color: var(--default-color);
+  color: #000;
   background-color: var(--background-color);
   font-size: 14px;
   position: relative;
@@ -535,7 +535,7 @@ h6 {
 }
 
 .footer .footer-about .logo span {
-  color: var(--heading-color);
+  color: #000;
   font-family: var(--heading-font);
   font-size: 26px;
   font-weight: 700;
@@ -562,7 +562,7 @@ h6 {
 }
 
 .footer .social-links a:hover {
-  color: var(--accent-color);
+  color: #000;
   border-color: var(--accent-color);
 }
 
@@ -600,13 +600,13 @@ h6 {
 }
 
 .footer .footer-links ul a {
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: #000;
   display: inline-block;
   line-height: 1;
 }
 
 .footer .footer-links ul a:hover {
-  color: var(--accent-color);
+  color: #000;
 }
 
 .footer .footer-contact p {
