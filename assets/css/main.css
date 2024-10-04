@@ -146,6 +146,30 @@ h6 {
   border-radius: 0;
 }
 
+#modificarH2Consulta h2{
+  color: #000;
+}
+
+#modificarH2Consulta p{
+  color: #000;
+}
+
+#mudarCorPilotos h2{
+color: #000;
+}
+
+#mudarCorPilotos p{
+  color: #000;
+}
+
+#mudarCorDuvidas h2{
+color: #000;
+}
+
+#mudarCorDuvidas p{
+  color: #000;
+  }
+
 .pulsating-play-btn:hover:after {
   border-left: 15px solid var(--accent-color);
   transform: scale(20);
